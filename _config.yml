@@ -46,7 +46,8 @@ disqus-shortname:
 # Name of the Author
 author-name: Kevin Morris
 # URL for the Image of the Author
-author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+# author-image: https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png
+author-image: https://media.licdn.com/dms/image/v2/D4E03AQEnWIcjwUznIg/profile-displayphoto-shrink_200_200/B4EZSFxhOjGwAc-/0/1737411138787?e=1752105600&v=beta&t=6pu0nou_a8M9dbsVHjfK-ngFeWk1oEco8onWtFm1Fuc
 # 60 Words About the Author
 author-about: It's a work in progress. Fun getting to learn and deploy Jekyll.  Looking forward to blogging directly from the CLI in Markdown.
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
